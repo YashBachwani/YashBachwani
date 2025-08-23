@@ -36,6 +36,7 @@
  <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
+
 </details>
 <br>
 
@@ -54,6 +55,8 @@
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+<code><a href="[https://aws.amazon.com/](https://n8n.io/?ps_partner_key=MGM4M2FmNGEyZTE0&ps_xid=oBjXEzLTebRORL&gsxid=oBjXEzLTebRORL&gspk=MGM4M2FmNGEyZTE0&gad_source=1&gad_campaignid=22784857124&gbraid=0AAAAApDU72Jdx18Ce5_UMFCdOcnpK3HEM&gclid=Cj0KCQjwzaXFBhDlARIsAFPv-u_FCYbVQyEHN7Nsa_UKKB3gU1h0XTj0m-MTIYd7uc_e_bhlZKg8158aAmzkEALw_wcB)" target="_blank"><img height="30" src="[https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AN8n-logo-new.svg&psig=AOvVaw0Dy1WBlSmDbhv-SyaU2HeO&ust=1756032846147000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDf47PioI8DFQAAAAAdAAAAABAf)"></a></code>
+
 </details>
 <br>
 
