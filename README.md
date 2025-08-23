@@ -36,7 +36,6 @@
  <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-
 </details>
 <br>
 
@@ -55,7 +54,6 @@
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-<code><a href="[https://aws.amazon.com/](https://n8n.io/?ps_partner_key=MGM4M2FmNGEyZTE0&ps_xid=oBjXEzLTebRORL&gsxid=oBjXEzLTebRORL&gspk=MGM4M2FmNGEyZTE0&gad_source=1&gad_campaignid=22784857124&gbraid=0AAAAApDU72Jdx18Ce5_UMFCdOcnpK3HEM&gclid=Cj0KCQjwzaXFBhDlARIsAFPv-u_FCYbVQyEHN7Nsa_UKKB3gU1h0XTj0m-MTIYd7uc_e_bhlZKg8158aAmzkEALw_wcB)" target="_blank"><img height="30" src="[https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AN8n-logo-new.svg&psig=AOvVaw0Dy1WBlSmDbhv-SyaU2HeO&ust=1756032846147000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDf47PioI8DFQAAAAAdAAAAABAf)"></a></code>
 
 </details>
 <br>
@@ -69,35 +67,35 @@
 <br>
 <p align="center">
   <a href="https://github.com/omunite215">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=omunite215&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=YashBachwani&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/omunite215">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/YashBachwani">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBachwani&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="omunite215" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashBachwani&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="YashBachwani" /></p>
 </details>
 
 ---
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/om-patel-401068143/">
-   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="https://www.linkedin.com/in/yash-bachwani/">
+   <img align="left" alt=" Yash Bachwani | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:omunite21@gmail.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="mailto:yash.bachwani30@gmail.com">
+    <img align="left" alt="Yash Bachwani | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/_21omp/">
-    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://www.instagram.com/yash_bachwani/">
+    <img align="left" alt="Yash Bachwani | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://github.com/omunite215">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+   <a href="https://github.com/YashBachwani">
+    <img align="left" alt="Yash Bachwani | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https://portfolio-jade-gamma-13.vercel.app/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+  <a href="https://yashbachwani.github.io/Portfolio/">
+    <img align="left" alt="Yash Bachwani | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
   <br>
   
-<p align="right" > Created with 🧡 by <a href="https://github.com/omunite215">Om Patel</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="omunite215" /> </p>
+<p align="right" > Created with 🧡 by <a href="https://github.com/omunite215">Yash Bachwani</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=YashBachwani&label=Profile%20views&color=0e75b6&style=flat" alt="YashBachwani" /> </p>
